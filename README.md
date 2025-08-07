@@ -62,4 +62,5 @@ python lstm_employee_forecast.py
 
     The synthetic dataset can be replaced with actual HR data for deployment.
 
-👨‍💻 Author
+👨‍💻 Author: Okes Imoni
+Email: jennyimoni@gmail.com
